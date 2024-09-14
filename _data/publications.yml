@@ -20,7 +20,7 @@ main:
 
   - title: "A survey of graph meets large language model: Progress and future directions"
     authors: Yuhan Li*, <strong><u>Zhixun Li*</u></strong>, Peisong Wang*, Jia Li, Xiangguo Sun, Hong Cheng, Jeffrey Xu Yu
-    conference_short: IJCAI'23
+    conference_short: IJCAI'24
     conference: International Joint Conference on Artificial Intelligence (IJCAI), 2024.
     pdf: https://arxiv.org/pdf/2311.12399
     code: https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks
