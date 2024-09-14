@@ -13,7 +13,7 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 
 <ul>
-  <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click [here](https://graph-intelligence.github.io/).</li>
+  <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>.</li>
   <li><strong>[Jul. 2024]</strong> Start my research internship at Ant Group in Hangzhou.</li>
   <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted by CIKM 2024.</li>
   <li><strong>[May. 2024]</strong> Two papers are accepted by SIGKDD 2024.</li>
