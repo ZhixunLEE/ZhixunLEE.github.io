@@ -2,11 +2,11 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
-<ul style="margin:0 0 5px;">
+<!-- <ul style="margin:0 0 5px;">
   <li><a href="https://kdd.org"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024</autocolor></a></li>
   <li><a href="https://icde2024.github.io/"><autocolor>IEEE International Conference on Data Engineering (ICDE) 2024</autocolor></a></li>
   <li><a href="https://www.cloud-conf.net/icdm2023/"><autocolor>International Conference on Data Mining (ICDM) 2023</autocolor></a></li>
-</ul>
+</ul> -->
 
 <ul style="margin:0 0 5px;">
   <li>Invited Reviewer & PC Member: KDD 2024, ICDE 2024, GFM@WWW 2024, ICDM 2023, IEEE Transactions on Cybernetics</li>
