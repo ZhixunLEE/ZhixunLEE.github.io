@@ -21,7 +21,7 @@ wechat_link: assets/img/Wechat.jpeg
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/im.png
+avatar: ./assets/img/im.jpeg
 favicon: ./assets/img/huggingface.png
 favicon_dark: ./assets/img/huggingface.png
 
