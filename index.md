@@ -33,8 +33,8 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 <h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
 
 <ul>
-  <li>Research Intern. Ant Group. Jul. 2024 - Now. Hangzhou, China. Mentor: Daixin Wang.</li>
-  <li>Research Intern. Institute of Automation. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
+  <li>Research Intern. <strong>Ant Group</strong>. Jul. 2024 - Now. Hangzhou, China. Mentor: Daixin Wang.</li>
+  <li>Research Intern. <strong>Institute of Automation, Chinese Academy of Sciences</strong>. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
 </ul>
 
 {% include_relative _includes/services.md %}
