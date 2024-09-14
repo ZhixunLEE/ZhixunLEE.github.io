@@ -41,5 +41,5 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 
 ---
 
-<script align="center" width="200" style="margin-top:30px;" type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8MJ4aEEf-KcwZje3zPu4G4P06CTw37UHKD4bJNP545c&cl=ffffff&w=a"></script>
+<script width=30% type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8MJ4aEEf-KcwZje3zPu4G4P06CTw37UHKD4bJNP545c&cl=ffffff&w=a"></script>
 
