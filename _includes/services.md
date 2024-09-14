@@ -1,6 +1,6 @@
 ## Services
 
-<!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://kdd.org"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024</autocolor></a></li>

@@ -11,8 +11,10 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 
 <ul>
-  <li><strong>[Jul. 2024]</strong> Start my research internship in Ant Group at Hangzhou.</li>
+  <li><strong>[Jul. 2024]</strong> Start my research internship at Ant Group in Hangzhou.</li>
+  <li><strong>[Jun. 2024]</strong> One short paper about fake new detection is accepted to CIKM 2024.</li>
   <li><strong>[May. 2024]</strong> Two papers are accepted to SIGKDD 2024.</li>
+  <li><strong>[May. 2024]</strong> One paper about community detection is accepted to VLDB 2024.</li>
   <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted to IJCAI 2024.</li>
   <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted to NeurIPS 2023.</li>
 </ul>
@@ -27,6 +29,13 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 
 
 {% include_relative _includes/publications.md %}
+
+<h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
+
+<ul>
+  <li>Research Intern. Ant Group. Jul. 2024 - Now. Hangzhou, China. Mentor: Daixin Wang.</li>
+  <li>Research Intern. Institute of Automation. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
+</ul>
 
 {% include_relative _includes/services.md %}
 
