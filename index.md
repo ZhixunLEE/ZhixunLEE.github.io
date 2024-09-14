@@ -12,11 +12,11 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 
 <ul>
   <li><strong>[Jul. 2024]</strong> Start my research internship at Ant Group in Hangzhou.</li>
-  <li><strong>[Jun. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024.</li>
-  <li><strong>[May. 2024]</strong> Two papers are accepted to SIGKDD 2024.</li>
-  <li><strong>[May. 2024]</strong> One paper about community detection is accepted to VLDB 2024.</li>
-  <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted to IJCAI 2024.</li>
-  <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted to NeurIPS 2023.</li>
+  <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted by CIKM 2024.</li>
+  <li><strong>[May. 2024]</strong> Two papers are accepted by SIGKDD 2024.</li>
+  <li><strong>[May. 2024]</strong> One paper about community detection is accepted by VLDB 2024.</li>
+  <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted by IJCAI 2024.</li>
+  <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted by NeurIPS 2023.</li>
 </ul>
 
 <!-- My research interests include -->
