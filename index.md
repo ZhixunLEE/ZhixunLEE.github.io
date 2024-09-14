@@ -12,7 +12,7 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 
 <ul>
   <li><strong>[Jul. 2024]</strong> Start my research internship at Ant Group in Hangzhou.</li>
-  <li><strong>[Jun. 2024]</strong> One short paper about fake new detection is accepted to CIKM 2024.</li>
+  <li><strong>[Jun. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024.</li>
   <li><strong>[May. 2024]</strong> Two papers are accepted to SIGKDD 2024.</li>
   <li><strong>[May. 2024]</strong> One paper about community detection is accepted to VLDB 2024.</li>
   <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted to IJCAI 2024.</li>
@@ -41,3 +41,4 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 
 ---
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8MJ4aEEf-KcwZje3zPu4G4P06CTw37UHKD4bJNP545c&cl=ffffff&w=a"></script>
