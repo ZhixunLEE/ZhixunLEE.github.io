@@ -1,8 +1,8 @@
 # Basic Information 
-title: Chenxiao Yang<br>(杨&nbsp;晨晓)
-position: Master Student
-affiliation: Shanghai Jiao Tong University
-email: chr26195 [at] sjtu (dot) edu (dot) cn
+title: Zhixun Li<br>(李志勋)
+position: PhD Student
+affiliation: The Chinese University of Hong Kong
+email: zxli [at] se (dot) cuhk (dot) edu (dot) hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,16 +12,16 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?hl=en&user=fpk1quoAAAAJ&view_op=list_works&sortby=pubdate
+google_scholar: https://scholar.google.com/citations?user=l0W7XHoAAAAJ&hl=en
 # cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/chr26195
-wechat_link: assets/files/Wechat.jpg
-linkedin: https://www.linkedin.com/in/chenxiao-yang-908039244/
-twitter: https://x.com/chenxiao_yang_
+github_link: https://github.com/ZhixunLEE
+wechat_link: assets/img/Wechat.jpeg
+# linkedin: https://www.linkedin.com/in/
+# twitter: https://x.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/me.png
+avatar: ./assets/img/im.png
 favicon: ./assets/img/huggingface.png
 favicon_dark: ./assets/img/huggingface.png
 

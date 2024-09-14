@@ -4,7 +4,8 @@ layout: homepage
 
 <!-- ## Biography -->
 
-I am an incoming PhD student at [Toyota Technological Insitute at Chicago](https://www.ttic.edu) where I will be working with [Zhiyuan Li](http://zhiyuanli.ttic.edu). Before this, I was a research intern at [Amazon Web Services (AI Shanghai Lablet)](https://www.amazonaws.cn/en/ailab/) working with [David Wipf](http://www.davidwipf.com/). I completed my Master's degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) in 2024, under the supervision of [Junchi Yan](https://thinklab.sjtu.edu.cn). I also earned my Bachelor's degree at Shanghai Jiao Tong University in 2021. My research interests include machine learning theory, graph neural networks, and large language models, among other topics.
+
+I am a second-yead PhD student in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), working with Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). I was a Research Intern at Institute of Automation, Chinese Academy of Sciences, where I was working closely with [Qiang Liu](https://john-qiangliu.tech/) and [Shu Wu](https://people.ucas.ac.cn/~shuwu). My research interests include graph neural networks, trustworthy AI, and large language models, among other topics.
 
 <!-- My research interests include -->
 
