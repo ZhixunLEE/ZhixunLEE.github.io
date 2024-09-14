@@ -40,6 +40,6 @@ I am a second-yead PhD student in the Department of Systems Engineering and Engi
 {% include_relative _includes/services.md %}
 
 ---
-
-<script width=30% type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8MJ4aEEf-KcwZje3zPu4G4P06CTw37UHKD4bJNP545c&cl=ffffff&w=a"></script>
-
+<div style="width: 40%; margin: 0 auto;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8MJ4aEEf-KcwZje3zPu4G4P06CTw37UHKD4bJNP545c&cl=ffffff&w=a"></script>
+</div>
