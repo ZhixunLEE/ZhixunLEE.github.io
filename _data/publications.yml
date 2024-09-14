@@ -15,7 +15,7 @@ main:
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2023.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf
     code: https://github.com/GSL-Benchmark/GSLB
-    image: ./assets/img/GSLB.jpg
+    image: ./assets/img/gslb.png
 
 
   - title: "A survey of graph meets large language model: Progress and future directions"
