@@ -36,8 +36,8 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
 
 <ul>
-  <li>Research Intern. <strong>Ant Group</strong>. Jul. 2024 - Now. Hangzhou, China. Mentor: Daixin Wang.</li>
-  <li>Research Intern. <strong>Institute of Automation, Chinese Academy of Sciences</strong>. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
+  <li>Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Now. Hangzhou, China. Mentor: Daixin Wang.</li>
+  <li>Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
 </ul>
 
 {% include_relative _includes/services.md %}

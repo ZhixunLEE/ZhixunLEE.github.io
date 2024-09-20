@@ -9,7 +9,7 @@
 </ul> -->
 
 <ul style="margin:0 0 5px;">
-  <li>Invited Reviewer & PC Member: KDD 2024, ICDE 2024, GFM@WWW 2024, ICDM 2023, IEEE Transactions on Cybernetics</li>
+  <li>Invited Reviewer & PC Member: ICLR 2025, KDD 2024, ICDE 2024, GFM@WWW 2024, ICDM 2023, IEEE Transactions on Cybernetics</li>
   <li>Teaching Assistant: FTEC4001 (2023 Fall), SEEM3550B (2024 Spring), FTEC4002 (2024 Fall)</li>
 </ul>
 
