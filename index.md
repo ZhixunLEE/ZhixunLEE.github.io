@@ -13,14 +13,14 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
-    <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to <b>NeruIPS'24</b>! </li>
+    <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeruIPS 2024. </li>
     <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>. </li>
     <li><strong>[Jul. 2024]</strong> Start my research internship at Ant Group in Hangzhou. </li>
-    <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted by CIKM 2024. </li>
-    <li><strong>[May. 2024]</strong> Two papers are accepted by SIGKDD 2024. </li>
-    <li><strong>[May. 2024]</strong> One paper about community detection is accepted by VLDB 2024. </li>
-    <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted by IJCAI 2024. </li>
-    <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted by NeurIPS 2023. </li>
+    <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024. </li>
+    <li><strong>[May. 2024]</strong> Two papers are accepted to SIGKDD 2024. </li>
+    <li><strong>[May. 2024]</strong> One paper about community detection is accepted to VLDB 2024. </li>
+    <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted to IJCAI 2024. </li>
+    <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted to NeurIPS 2023. </li>
   </ul>
 </nav>
 
