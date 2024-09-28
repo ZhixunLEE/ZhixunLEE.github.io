@@ -13,7 +13,7 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
-    <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeruIPS 2024. </li>
+    <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeurIPS 2024. </li>
     <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>. </li>
     <li><strong>[Jul. 2024]</strong> Start my research internship at Ant Group in Hangzhou. </li>
     <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024. </li>
