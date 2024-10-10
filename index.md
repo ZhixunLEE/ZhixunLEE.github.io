@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 id="aboutme" style="margin: 2px 0px 0px;">About Me</h2>
 
-I am a second-yead PhD student in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), fortunately advised by Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). I was a Research Intern at Institute of Automation, Chinese Academy of Sciences, where I was working closely with [Qiang Liu](https://john-qiangliu.tech/) and [Shu Wu](https://people.ucas.ac.cn/~shuwu). My research interests include graph neural networks, trustworthy AI, and large language models, among other topics.
+I am a second-year PhD student in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), fortunately advised by Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). I was a Research Intern at Institute of Automation, Chinese Academy of Sciences, where I was working closely with [Qiang Liu](https://john-qiangliu.tech/) and [Shu Wu](https://people.ucas.ac.cn/~shuwu). My research interests include graph neural networks, trustworthy AI, and large language models, among other topics.
 
 Feel free to drop me an email if you have anything would like to discuss :)
 
