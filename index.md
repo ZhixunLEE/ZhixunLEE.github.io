@@ -13,6 +13,7 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
+    <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics is accepted to SIGKDD 2025. </li>
     <li><strong>[Oct. 2024]</strong> Start my research internship at Microsoft Research Asia! </li>
     <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeurIPS 2024. </li>
     <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>. </li>
