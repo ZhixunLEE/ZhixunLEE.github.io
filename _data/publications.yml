@@ -11,7 +11,7 @@ main:
 
   - title: "GSLB: The Graph Structure Learning Benchmark"
     authors: <strong><u>Zhixun Li</u></strong>, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen, Yingtao Luo, Xiangxin Zhou, Qiang Liu, Shu Wu, Liang Wang, Jeffrey Yu
-    conference_short: NuerIPS'23
+    conference_short: NeurIPS'23
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2023.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf
     code: https://github.com/GSL-Benchmark/GSLB
@@ -35,9 +35,16 @@ main:
     code: https://github.com/NineAbyss/ZeroG
     image: ./assets/img/ZeroG.jpeg
 
-  - title: "The devil is in the conflict: Disentangled information graph neural networks for fraud detection"
-    authors: <strong><u>Zhixun Li*</u></strong>, Dingshuo Chen*, Qiang Liu, Shu Wu
-    conference_short: ICDM'22
-    conference: International Conference on Data Mining (ICDM), 2022.
-    pdf: https://arxiv.org/pdf/2210.12384
-    image: ./assets/img/DIGNN.jpg
+  - title: "Iceberg: A Simple-yet-Effective Approach to Class-Imbalanced Node Classification"
+    authors: <strong><u>Zhixun Li</u></strong>, Dingshuo Chen, Tong Zhao, Daixin Wang, Hongrui Liu, Zhiqiang Zhang, Jun Zhou, Jeffrey Xu Yu
+    conference_short: WWW'25
+    conference: The Web Conference, 2025.
+    pdf: https://zhixunlee.github.io/
+    image: ./assets/img/IceBerg.png
+
+  - title: "Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems"
+    authors: Guibin Zhang*, Yanwei Yue*, <strong><u>Zhixun Li*</u></strong>, Sukwon Yun, Guancheng Wan, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen
+    conference_short: ICLR'25
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/pdf/2410.02506
+    image: ./assets/img/Agentprune.png

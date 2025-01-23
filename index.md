@@ -13,6 +13,8 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
+    <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems is accepted to ICLR 2025. </li>
+    <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification is accepted to WWW 2025. </li>
     <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics is accepted to SIGKDD 2025. </li>
     <li><strong>[Oct. 2024]</strong> Start my research internship at Microsoft Research Asia! </li>
     <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeurIPS 2024. </li>
@@ -39,7 +41,7 @@ Feel free to drop me an email if you have anything would like to discuss :)
 <h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
 
 <ul>
-  <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>. Oct. 2024 - Now. Beijing, China. Mentor: Yaosen Min.</li>
+  <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>. Oct. 2024 - Now. Beijing, China. Mentor: Yu Shi.</li>
   <li>Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Hangzhou, China. Mentor: Daixin Wang.</li>
   <li>Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
 </ul>
