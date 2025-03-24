@@ -11,7 +11,7 @@
 <ul style="margin:0 0 5px;">
   <li>Conference Reviewer: WWW 2025, ICLR 2025, KDD 2024, ICDE 2024, GFM@WWW 2024, ICDM 2023</li>
   <li>Journal Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Knowledge and Data Engineering</li>
-  <li>Teaching Assistant: FTEC4001 (2023 Fall), SEEM3550B (2024 Spring), FTEC4002 (2024 Fall)</li>
+  <li>Teaching Assistant: FTEC4001 (2023 Fall), SEEM3550B (2024 Spring), FTEC4002 (2024 Fall), FTEC4007 (2025 Spring)</li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->

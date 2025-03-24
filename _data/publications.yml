@@ -1,5 +1,13 @@
 main:
 
+  - title: "Iceberg: Debiased Self-Training for Class-Imbalanced Node Classification"
+    authors: <strong><u>Zhixun Li</u></strong>, Dingshuo Chen, Tong Zhao, Daixin Wang, Hongrui Liu, Zhiqiang Zhang, Jun Zhou, Jeffrey Xu Yu
+    conference_short: WWW'25
+    conference: The Web Conference (WWW), 2025.
+    pdf: https://zhixunlee.github.io/
+    code: https://github.com/ZhixunLEE/IceBerg
+    image: ./assets/img/IceBerg.png
+
   - title: "Rethinking Fair Graph Neural Networks from Re-balancing"
     authors: <strong><u>Zhixun Li</u></strong>, Yushun Dong, Qiang Liu, Jeffrey Xu Yu
     conference_short: KDD'24
@@ -27,6 +35,14 @@ main:
     image: ./assets/img/graphLLM.jpg
     # notes: Spotlight, ranking among top 0.5%
 
+  - title: "Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems"
+    authors: Guibin Zhang*, Yanwei Yue*, <strong><u>Zhixun Li*</u></strong>, Sukwon Yun, Guancheng Wan, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen
+    conference_short: ICLR'25
+    conference: International Conference on Learning Representations (ICLR), 2025.
+    pdf: https://arxiv.org/pdf/2410.02506
+    code: https://github.com/yanweiyue/AgentPrune
+    image: ./assets/img/Agentprune.png
+
   - title: "ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs"
     authors: Yuhan Li, Peisong Wang, <strong><u>Zhixun Li</u></strong>, Jeffrey Xu Yu, Jia Li
     conference_short: KDD'24
@@ -34,17 +50,3 @@ main:
     pdf: https://arxiv.org/pdf/2402.11235
     code: https://github.com/NineAbyss/ZeroG
     image: ./assets/img/ZeroG.jpeg
-
-  - title: "Iceberg: A Simple-yet-Effective Approach to Class-Imbalanced Node Classification"
-    authors: <strong><u>Zhixun Li</u></strong>, Dingshuo Chen, Tong Zhao, Daixin Wang, Hongrui Liu, Zhiqiang Zhang, Jun Zhou, Jeffrey Xu Yu
-    conference_short: WWW'25
-    conference: The Web Conference, 2025.
-    pdf: https://zhixunlee.github.io/
-    image: ./assets/img/IceBerg.png
-
-  - title: "Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems"
-    authors: Guibin Zhang*, Yanwei Yue*, <strong><u>Zhixun Li*</u></strong>, Sukwon Yun, Guancheng Wan, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen
-    conference_short: ICLR'25
-    conference: International Conference on Learning Representations, 2025.
-    pdf: https://arxiv.org/pdf/2410.02506
-    image: ./assets/img/Agentprune.png
