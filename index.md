@@ -8,7 +8,11 @@ layout: homepage
 
 I am a second-year PhD student in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), fortunately advised by Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). My research interests include Data Mining, Large Language Models, and AI for Science.
 
-Feel free to drop me an email if you have anything would like to discuss :)
+<!-- Feel free to drop me an email if you have anything would like to discuss :) -->
+
+<div style="border: 2px solid black; padding: 12px; border-radius: 8px; background-color: #e6f7ff; color: black;">
+I'm actively seeking a research internship for the summer of 2025. If you're interested in my research experience, please feel free to contact me 🤩.
+</div>
 
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
