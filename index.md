@@ -17,6 +17,7 @@ I'm actively seeking a research internship for the summer of 2025. If you're int
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
+    <li><strong>[May. 2025]</strong> Our preprint survey paper "<a href="https://arxiv.org/pdf/2505.16379">Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey</a>" is released.</li>
     <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems is accepted to ICLR 2025. </li>
     <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification is accepted to WWW 2025. </li>
     <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics is accepted to SIGKDD 2025. </li>
