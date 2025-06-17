@@ -11,7 +11,7 @@ I am a second-year PhD student in the Department of Systems Engineering and Engi
 <!-- Feel free to drop me an email if you have anything would like to discuss :) -->
 
 <div style="border: 2px solid black; padding: 12px; border-radius: 8px; background-color: #e6f7ff; color: black;">
-I'm actively seeking a research internship for the summer of 2025. If you're interested in my research experience, please feel free to contact me 🤩.
+Recently, my research interests lie in large reasoning models and AI for science, particularly in incentivizing reasoning capabilities in LLMs with RL. I'm always excited to exchange ideas, please feel free to contact me 🤩.
 </div>
 
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
@@ -21,7 +21,7 @@ I'm actively seeking a research internship for the summer of 2025. If you're int
     <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems is accepted to ICLR 2025. </li>
     <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification is accepted to WWW 2025. </li>
     <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics is accepted to SIGKDD 2025. </li>
-    <li><strong>[Oct. 2024]</strong> Start my research internship at Microsoft Research Asia! </li>
+    <!-- <li><strong>[Oct. 2024]</strong> Start my research internship at Microsoft Research Asia! </li> -->
     <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeurIPS 2024. </li>
     <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>. </li>
     <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024. </li>
@@ -43,13 +43,13 @@ I'm actively seeking a research internship for the summer of 2025. If you're int
 
 {% include_relative _includes/publications.md %}
 
-<h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
+<!-- <h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
 
 <ul>
   <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>. Oct. 2024 - Mar. 2025. Beijing, China. Mentor: Yu Shi.</li>
   <li>Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Hangzhou, China. Mentor: Daixin Wang.</li>
   <li>Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
-</ul>
+</ul> -->
 
 {% include_relative _includes/services.md %}
 
