@@ -9,7 +9,7 @@
 </ul> -->
 
 <ul style="margin:0 0 5px;">
-  <li>Conference Reviewer: NeurIPS 2025, WWW 2025, ICLR 2025, KDD 2024, ICDE 2024, GFM@WWW 2024, ICDM 2023</li>
+  <li>Conference Reviewer: WWW 2026, ICLR 2026, NeurIPS 2025, WWW 2025, ICLR 2025, KDD 2024, ICDE 2024, GFM@WWW 2024, ICDM 2023</li>
   <li>Journal Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Knowledge and Data Engineering</li>
   <li>Teaching Assistant: FTEC4001 (2023 Fall), SEEM3550B (2024 Spring), FTEC4002 (2024 Fall), FTEC4007 (2025 Spring)</li>
 </ul>

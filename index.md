@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 id="aboutme" style="margin: 2px 0px 0px;">About Me</h2>
 
-I am a second-year PhD student in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), fortunately advised by Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). My research interests include Data Mining, Large Language Models, and AI for Science.
+I am a third-year PhD candidate in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), fortunately advised by Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/) and Prof. [Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). My research interests include Large LLM Reasoning, AI for Science, and Data Mining.
 
 <!-- Feel free to drop me an email if you have anything would like to discuss :) -->
 
@@ -43,13 +43,14 @@ Recently, my research interests lie in large reasoning models and AI for science
 
 {% include_relative _includes/publications.md %}
 
-<!-- <h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
+<h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
 
 <ul>
-  <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>. Oct. 2024 - Mar. 2025. Beijing, China. Mentor: Yu Shi.</li>
-  <li>Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Hangzhou, China. Mentor: Daixin Wang.</li>
-  <li>Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Beijing, China. Advisor: Qiang Liu and Shu Wu</li>
-</ul> -->
+  <li>Research Intern. <a href="https://github.com/inclusionAI">Ant Group, inclusionAI</a>. Jun. 2025 - Present. Topic: LLM Reasoning.</li>
+  <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>. Oct. 2024 - Mar. 2025. Topic: AI for Science.</li>
+  <li>Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Topic: Data Mining.</li>
+  <li>Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Topic: Data Mining.</li>
+</ul>
 
 {% include_relative _includes/services.md %}
 
