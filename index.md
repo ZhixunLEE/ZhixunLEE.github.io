@@ -17,6 +17,7 @@ Recently, my research interests lie in large reasoning models and AI for science
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
+    <li><strong>[Oct. 2025]</strong> We released the first open-source, trillion-scale thinking model, <a href="https://huggingface.co/inclusionAI/Ring-1T">Ring-1T</a>. More details please refer to our <a href="https://arxiv.org/pdf/2510.18855?">Technical Report</a>. </li>
     <li><strong>[May. 2025]</strong> Our preprint survey paper "<a href="https://arxiv.org/pdf/2505.16379">Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey</a>" is released.</li>
     <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems is accepted to ICLR 2025. </li>
     <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification is accepted to WWW 2025. </li>
