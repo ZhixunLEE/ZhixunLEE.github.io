@@ -48,8 +48,8 @@ Recently, my research interests lie in large reasoning models and AI for science
 <h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
 
 <ul>
-  <li>Research Intern. <a href="https://github.com/inclusionAI">Ant Group, inclusionAI</a>. Jun. 2025 - Present. Topic: LLM Reasoning.</li>
-  <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>. Oct. 2024 - Mar. 2025. Topic: AI for Science.</li>
+  <li>Research Intern. <a href="https://github.com/inclusionAI">Ling Team, Ant Group</a>. Jun. 2025 - Present. Topic: LLM Reasoning.</li>
+  <li>Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">AI4S Group, Microsoft Research</a>. Oct. 2024 - Mar. 2025. Topic: AI for Science.</li>
   <li>Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Topic: Data Mining.</li>
   <li>Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Topic: Data Mining.</li>
 </ul>
