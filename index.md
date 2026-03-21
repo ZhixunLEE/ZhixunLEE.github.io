@@ -11,8 +11,18 @@ I am a third-year PhD candidate in the Department of Systems Engineering and Eng
 <!-- Feel free to drop me an email if you have anything would like to discuss :) -->
 
 <div style="border: 2px solid black; padding: 12px; border-radius: 8px; background-color: #e6f7ff; color: black;">
-Recently, my research interests lie in large reasoning models and AI for science, particularly in incentivizing reasoning capabilities in LLMs with RL. I'm always excited to exchange ideas, please feel free to contact me 🤩.
+I am currently on the job market. If you have any internship or full-time opportunities available, please feel free to reach out to me.
 </div>
+
+<h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
+
+<ul>
+  <li><img src="./assets/img/Tongyi.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://tongyi.aliyun.com">Qwen Team, Tongyi Lab, Alibaba Group</a>. Feb. 2026 - Present. Topic: Agentic RL.</li>
+  <li><img src="./assets/img/Ling.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://www.inclusion-ai.org">Ling Team, InclusionAI, Ant Group</a>. Jun. 2025 - Feb. 2026. Topic: LLM Reasoning.</li>
+  <li><img src="./assets/img/Microsoft.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">AI4S Group, Microsoft Research</a>. Oct. 2024 - Mar. 2025. Topic: AI for Science.</li>
+  <li><img src="./assets/img/AntGroup.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Topic: Data Mining.</li>
+  <li><img src="./assets/img/CASIA.png" style="width: 20px; height: 20px;"> Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Topic: Data Mining.</li>
+</ul>
 
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
@@ -44,16 +54,6 @@ Recently, my research interests lie in large reasoning models and AI for science
 
 
 {% include_relative _includes/publications.md %}
-
-<h2 id="experience" style="margin: 2px 0px 0px;">Experiences</h2>
-
-<ul>
-  <li><img src="./assets/img/Tongyi.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://tongyi.aliyun.com">Qwen Team, Tongyi Lab, Alibaba Group</a>. Feb. 2026 - Present. Topic: Agentic RL.</li>
-  <li><img src="./assets/img/Ling.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://www.inclusion-ai.org">Ling Team, InclusionAI, Ant Group</a>. Jun. 2025 - Feb. 2026. Topic: LLM Reasoning.</li>
-  <li><img src="./assets/img/Microsoft.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">AI4S Group, Microsoft Research</a>. Oct. 2024 - Mar. 2025. Topic: AI for Science.</li>
-  <li><img src="./assets/img/AntGroup.png" style="width: 20px; height: 20px;"> Research Intern. <a href="https://www.antgroup.com/en">Ant Group</a>. Jul. 2024 - Oct. 2024. Topic: Data Mining.</li>
-  <li><img src="./assets/img/CASIA.png" style="width: 20px; height: 20px;"> Research Intern. <a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>. Jul. 2021 - Jun. 2023. Topic: Data Mining.</li>
-</ul>
 
 {% include_relative _includes/services.md %}
 
