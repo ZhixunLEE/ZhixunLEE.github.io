@@ -27,6 +27,7 @@ I am currently on the job market. If you have any internship or full-time opport
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav>
   <ul>
+    <li><strong>[Apr. 2026]</strong> We released Qwen3.6-Plus. From frontend web development to complex, repository-level problem solving, Qwen3.6-Plus sets a new state-of-the-art standard. More details pease refer to this <a href="https://qwen.ai/blog?id=qwen3.6">link</a>.</li>
     <li><strong>[Jan. 2026]</strong> One paper about crystal property prediction is accepted to ICLR 2026. </li>
     <li><strong>[Oct. 2025]</strong> We released the first open-source, trillion-scale thinking model, <a href="https://huggingface.co/inclusionAI/Ring-1T">Ring-1T</a>. More details please refer to our <a href="https://arxiv.org/pdf/2510.18855?">Technical Report</a>. </li>
     <li><strong>[May. 2025]</strong> Our preprint survey paper "<a href="https://arxiv.org/pdf/2505.16379">Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey</a>" is released.</li>
