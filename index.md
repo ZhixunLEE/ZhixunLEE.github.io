@@ -25,8 +25,9 @@ I am currently on the job market. If you have any internship or full-time opport
 </ul>
 
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
-<nav>
+<nav style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 6px;">
   <ul>
+    <li><strong>[Apr. 2026]</strong> Four papers are accepted to ACL 2026 (2 main, 2 findings).</li>
     <li><strong>[Apr. 2026]</strong> We released Qwen3.6-Plus. From frontend web development to complex, repository-level problem solving, Qwen3.6-Plus sets a new state-of-the-art standard. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.6">link</a>.</li>
     <li><strong>[Jan. 2026]</strong> One paper about crystal property prediction is accepted to ICLR 2026. </li>
     <li><strong>[Oct. 2025]</strong> We released the first open-source, trillion-scale thinking model, <a href="https://huggingface.co/inclusionAI/Ring-1T">Ring-1T</a>. More details please refer to our <a href="https://arxiv.org/pdf/2510.18855?">Technical Report</a>. </li>
@@ -34,7 +35,6 @@ I am currently on the job market. If you have any internship or full-time opport
     <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems is accepted to ICLR 2025. </li>
     <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification is accepted to WWW 2025. </li>
     <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics is accepted to SIGKDD 2025. </li>
-    <!-- <li><strong>[Oct. 2024]</strong> Start my research internship at Microsoft Research Asia! </li> -->
     <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeurIPS 2024. </li>
     <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>. </li>
     <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024. </li>
@@ -44,6 +44,7 @@ I am currently on the job market. If you have any internship or full-time opport
     <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted to NeurIPS 2023. </li>
   </ul>
 </nav>
+
 
 <!-- My research interests include -->
 
