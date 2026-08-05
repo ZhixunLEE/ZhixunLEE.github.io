@@ -27,6 +27,7 @@ I am currently on the job market. If you have any internship or full-time opport
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 6px;">
   <ul>
+    <li><strong>[Aug. 2026]</strong> We released Qwen3.8-Max. Qwen3.8-Max is a new bar for coding and cowork with 2.4 trillion parameters. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.8">link</a>.</li>
     <li><strong>[May. 2026]</strong> We released Qwen3.7-Max. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.7">link</a>.</li>
     <li><strong>[Apr. 2026]</strong> Four papers are accepted to ACL 2026 (2 main, 2 findings).</li>
     <li><strong>[Apr. 2026]</strong> We released Qwen3.6-Plus. From frontend web development to complex, repository-level problem solving, Qwen3.6-Plus sets a new state-of-the-art standard. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.6">link</a>.</li>
