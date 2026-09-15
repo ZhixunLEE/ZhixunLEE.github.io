@@ -8,6 +8,8 @@ layout: homepage
 
 I am a third-year PhD candidate in the Department of Systems Engineering and Engineering Management at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), fortunately advised by Prof. [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/) and Prof. [Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Previously, I received my B.Eng. in Computer Science from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/). My research interests include LLM Reasoning, AI for Science, and Data Mining.
 
+I'm interning on the **Qwen team**. My work mainly focuses on ML coding, RSI, and browser-use agents.
+
 <!-- Feel free to drop me an email if you have anything would like to discuss :) -->
 
 <div style="border: 2px solid black; padding: 12px; border-radius: 8px; background-color: #e6f7ff; color: black;">
