@@ -29,23 +29,24 @@ I am currently on the job market. If you have any internship or full-time opport
 <h2 id="news" style="margin: 2px 0px 0px;">News</h2>
 <nav style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 6px;">
   <ul>
+    <li><strong>[Sep. 2026]</strong> One paper about AI-assisted drug discovery has been accepted as a <strong>Spotlight</strong> by NeurIPS 2026.</li>
     <li><strong>[Aug. 2026]</strong> We released Qwen3.8-Max. Qwen3.8-Max is a new bar for coding and cowork with 2.4 trillion parameters. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.8">link</a>.</li>
     <li><strong>[May. 2026]</strong> We released Qwen3.7-Max. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.7">link</a>.</li>
-    <li><strong>[Apr. 2026]</strong> Four papers are accepted to ACL 2026 (2 main, 2 findings).</li>
+    <li><strong>[Apr. 2026]</strong> Four papers have been accepted by ACL 2026 (2 main, 2 findings).</li>
     <li><strong>[Apr. 2026]</strong> We released Qwen3.6-Plus. From frontend web development to complex, repository-level problem solving, Qwen3.6-Plus sets a new state-of-the-art standard. More details please refer to this <a href="https://qwen.ai/blog?id=qwen3.6">link</a>.</li>
-    <li><strong>[Jan. 2026]</strong> One paper about crystal property prediction is accepted to ICLR 2026. </li>
+    <li><strong>[Jan. 2026]</strong> One paper about crystal property prediction has been accepted by ICLR 2026. </li>
     <li><strong>[Oct. 2025]</strong> We released the first open-source, trillion-scale thinking model, <a href="https://huggingface.co/inclusionAI/Ring-1T">Ring-1T</a>. More details please refer to our <a href="https://arxiv.org/pdf/2510.18855?">Technical Report</a>. </li>
     <li><strong>[May. 2025]</strong> Our preprint survey paper "<a href="https://arxiv.org/pdf/2505.16379">Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey</a>" is released.</li>
-    <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems is accepted to ICLR 2025. </li>
-    <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification is accepted to WWW 2025. </li>
-    <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics is accepted to SIGKDD 2025. </li>
-    <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning are accepted to NeurIPS 2024. </li>
+    <li><strong>[Jan. 2025]</strong> One paper about multi-agent systems has been accepted by ICLR 2025. </li>
+    <li><strong>[Jan. 2025]</strong> One paper about long-tailed node classification has been accepted by WWW 2025. </li>
+    <li><strong>[Nov. 2024]</strong> One paper about fairness without demographics has been accepted by SIGKDD 2025. </li>
+    <li><strong>[Sep. 2024]</strong> Two papers about graph data pruning have been accepted by NeurIPS 2024. </li>
     <li><strong>[Aug. 2024]</strong> We organized a tutorial at KDD 2024 in Barcelona, for more details please click <a href="https://graph-intelligence.github.io/">here</a>. </li>
-    <li><strong>[Jul. 2024]</strong> One short paper about fake news detection is accepted to CIKM 2024. </li>
-    <li><strong>[May. 2024]</strong> Two papers are accepted to SIGKDD 2024. </li>
-    <li><strong>[May. 2024]</strong> One paper about community detection is accepted to VLDB 2024. </li>
-    <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models is accepted to IJCAI 2024. </li>
-    <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark is accepted to NeurIPS 2023. </li>
+    <li><strong>[Jul. 2024]</strong> One short paper about fake news detection has been accepted by CIKM 2024. </li>
+    <li><strong>[May. 2024]</strong> Two papers have been accepted by SIGKDD 2024. </li>
+    <li><strong>[May. 2024]</strong> One paper about community detection has been accepted by VLDB 2024. </li>
+    <li><strong>[Apr. 2024]</strong> Our survey about Graph meets Large Language Models has been accepted by IJCAI 2024. </li>
+    <li><strong>[Sep. 2023]</strong> Our graph structure learning benchmark has been accepted by NeurIPS 2023. </li>
   </ul>
 </nav>
 
